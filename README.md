@@ -5,4 +5,4 @@ https://polyhaven.com/a/yellow_onion
 https://polyhaven.com/a/stacked_brick_wall
 https://polyhaven.com/a/ship_pinnace
 
-<img width="1530" height="821" alt="image" src="https://github.com/user-attachments/assets/4df58810-fcc5-4c2e-8e18-77d2a483e2b5" />
+<img width="1494" height="802" alt="image" src="https://github.com/user-attachments/assets/6564b2b0-7035-4f15-b63c-723c57d7084c" />
